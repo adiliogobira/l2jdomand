@@ -1,3 +1,2 @@
-./${build.classes}
-./.idea/
-./build/*
+.idea/
+build/*
