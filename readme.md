@@ -46,8 +46,8 @@ O projeto é **open source**, voltado tanto para aprendizado quanto para uso pr�
 
 ## Downloads (Client e System)
 
-- **Client Hellbound:** `[Download client Lineage 2 Hellbound](https://www.lineage2.org.uk/download/lineage_files/lineage_clients/Lineage%20II%20-%20The%20Chaotic%20Throne%20-%20The%201st%20Throne%20-%20The%20Kamael%20-%20Hellbound.zip)`
-- **System Hellbound:** `[Download System Lineage 2 Hellbound clear](https://www.mediafire.com/file/mouamgk4tx3kuin/system.rar/file)`
+- **Client Hellbound:** [Download client Lineage 2 Hellbound](https://www.lineage2.org.uk/download/lineage_files/lineage_clients/Lineage%20II%20-%20The%20Chaotic%20Throne%20-%20The%201st%20Throne%20-%20The%20Kamael%20-%20Hellbound.zip)
+- **System Hellbound:** [Download System Lineage 2 Hellbound clear](https://www.mediafire.com/file/mouamgk4tx3kuin/system.rar/file)
 
 > ⚠️ **Observação:** utilize sempre o client e system compatíveis com a crônica Hellbound para evitar problemas de conexão e gameplay.
 
